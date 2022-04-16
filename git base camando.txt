@@ -1,0 +1,7 @@
+git init (inicializa um repositório GIT)
+git add --all (adiciona todos os arquivos ao GIT)
+git remote add origin LINKPARAREPOSITORIO (este link você consegue no próprio Bitbucket na página do projeto)
+git commit -m "Commit inicial" (cria um commit inicial)
+git push -u origin master (envia seu projeto para a branch master, se tive routra branch, mude o nome)
+É isso!
+isso
